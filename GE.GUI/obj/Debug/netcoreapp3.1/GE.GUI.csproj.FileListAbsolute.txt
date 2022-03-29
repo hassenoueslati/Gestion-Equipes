@@ -1,0 +1,14 @@
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.GUI.exe
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.GUI.deps.json
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.GUI.runtimeconfig.json
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.GUI.runtimeconfig.dev.json
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.GUI.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.GUI.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.csproj.AssemblyReference.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.AssemblyInfoInputs.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.AssemblyInfo.cs
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\obj\Debug\netcoreapp3.1\GE.GUI.genruntimeconfig.cache
