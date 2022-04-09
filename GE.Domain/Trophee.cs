@@ -14,6 +14,8 @@ namespace GE.Domain
         [Key]
         public int TropheeId { get; set; }
         public String TypeTrophee { get; set; }
-        public Equipe Equipe { get; set; }
+        public virtual Equipe Equipe { get; set; }
+        public int EquipeFk { get; set; }
+
     }
 }

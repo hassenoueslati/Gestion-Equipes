@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GE.Data\GE.Data.csproj" />
+    <ProjectReference Include="..\GE.Domain\GE.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

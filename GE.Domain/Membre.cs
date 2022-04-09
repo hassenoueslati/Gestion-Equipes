@@ -15,6 +15,6 @@ namespace GE.Domain
         public String Nom { get; set; }
         [Required(ErrorMessage = "le prenom est obligatoire")]
         public String Prenom { get; set; }
-        public List<Contrat> Contrats { get; set; }
+        public virtual List<Contrat> Contrats { get; set; }
     }
 }
