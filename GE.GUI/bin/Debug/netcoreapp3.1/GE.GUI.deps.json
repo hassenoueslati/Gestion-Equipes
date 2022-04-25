@@ -1456,10 +1456,19 @@
           "GE.Domain.dll": {}
         }
       },
+      "GE.ServicePattern/1.0.0": {
+        "dependencies": {
+          "GE.Data": "1.0.0"
+        },
+        "runtime": {
+          "GE.ServicePattern.dll": {}
+        }
+      },
       "GE.Services/1.0.0": {
         "dependencies": {
           "GE.Data": "1.0.0",
-          "GE.Domain": "1.0.0"
+          "GE.Domain": "1.0.0",
+          "GE.ServicePattern": "1.0.0"
         },
         "runtime": {
           "GE.Services.dll": {}
@@ -2396,6 +2405,11 @@
       "sha512": ""
     },
     "GE.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GE.ServicePattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

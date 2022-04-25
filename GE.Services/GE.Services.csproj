@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -7,6 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GE.Data\GE.Data.csproj" />
     <ProjectReference Include="..\GE.Domain\GE.Domain.csproj" />
+    <ProjectReference Include="..\GE.ServicePattern\GE.ServicePattern.csproj" />
   </ItemGroup>
 
 </Project>

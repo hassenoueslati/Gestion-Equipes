@@ -71,3 +71,5 @@ C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreap
 C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.Data.dll
 C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.Data.pdb
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.ServicePattern.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.GUI\bin\Debug\netcoreapp3.1\GE.ServicePattern.pdb

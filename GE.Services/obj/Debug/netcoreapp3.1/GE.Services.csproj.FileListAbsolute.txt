@@ -13,3 +13,5 @@ C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netc
 C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Data.pdb
 C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.Domain.pdb
 C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\obj\Debug\netcoreapp3.1\GE.Services.csproj.CopyComplete
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.ServicePattern.dll
+C:\Users\Hassen\Desktop\4TWIN\S2\.NET\Gestion Equipes\GE.Services\bin\Debug\netcoreapp3.1\GE.ServicePattern.pdb

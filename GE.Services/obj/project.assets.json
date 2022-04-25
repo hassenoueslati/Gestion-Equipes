@@ -2163,6 +2163,19 @@
         "runtime": {
           "bin/placeholder/GE.Domain.dll": {}
         }
+      },
+      "GE.ServicePattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "GE.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GE.ServicePattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GE.ServicePattern.dll": {}
+        }
       }
     }
   },
@@ -7378,12 +7391,18 @@
       "type": "project",
       "path": "../GE.Domain/GE.Domain.csproj",
       "msbuildProject": "../GE.Domain/GE.Domain.csproj"
+    },
+    "GE.ServicePattern/1.0.0": {
+      "type": "project",
+      "path": "../GE.ServicePattern/GE.ServicePattern.csproj",
+      "msbuildProject": "../GE.ServicePattern/GE.ServicePattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "GE.Data >= 1.0.0",
-      "GE.Domain >= 1.0.0"
+      "GE.Domain >= 1.0.0",
+      "GE.ServicePattern >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -7422,6 +7441,9 @@
             },
             "C:\\Users\\Hassen\\Desktop\\4TWIN\\S2\\.NET\\Gestion Equipes\\GE.Domain\\GE.Domain.csproj": {
               "projectPath": "C:\\Users\\Hassen\\Desktop\\4TWIN\\S2\\.NET\\Gestion Equipes\\GE.Domain\\GE.Domain.csproj"
+            },
+            "C:\\Users\\Hassen\\Desktop\\4TWIN\\S2\\.NET\\Gestion Equipes\\GE.ServicePattern\\GE.ServicePattern.csproj": {
+              "projectPath": "C:\\Users\\Hassen\\Desktop\\4TWIN\\S2\\.NET\\Gestion Equipes\\GE.ServicePattern\\GE.ServicePattern.csproj"
             }
           }
         }
